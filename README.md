@@ -1,4 +1,6 @@
 ### Hi there 👋
+  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
 
 <!--
 **jayeshkr77/jayeshkr77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
