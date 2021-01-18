@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<video width="320" height="240" controls>
-  <source src="https://jayesh.ml/jayesh.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img alt="Night Coding" src="https://jayesh.ml/jayesh.gif" align="center"/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
